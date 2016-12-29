@@ -2,7 +2,7 @@
 # 1) INSTALLATION DETAILS - 
     Pi hole is installed by running the following command:
       curl -L https://install.pi-hole.net | bash
-     Add a screen shot
+     
 
 # 2) SETTING UP WITH DLINK 
       Reason why it did not work with DLink ?
@@ -21,4 +21,6 @@
 
 # 3) DETAILS OF CONFIG FILES FOR SETTING UP DHCP
 # 4) ADD SCREENSHOTS OF WORKING
+![pihole](https://github.com/malathy-nagalakshmi/pihole/blob/master/pihole.png?raw=true)
 # 5) ADD THE ADDITIONAL BLACKLISTED DOMAINS
+      
