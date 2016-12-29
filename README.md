@@ -1,4 +1,4 @@
-                                                  # pihole
+# pihole
    Pihole is a multiplatform,network wide ad blocker
 # 1) INSTALLATION DETAILS 
     Pi hole is installed by running the following command:
